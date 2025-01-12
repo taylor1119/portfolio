@@ -21,7 +21,7 @@ const PROJECTS = [
 
 	{
 		name: 'Airbnb Clone',
-		links: ['https://airbnb-clone-riyadh-dev.vercel.app/'],
+		links: ['https://taylor1119.github.io/airbnb-clone/'],
 		repo: 'https://github.com/taylor1119/airbnb-clone',
 		thumbnail: imageSources.projects['airbnb-clone'][1],
 		images: imageSources.projects['airbnb-clone'],
@@ -84,7 +84,7 @@ const PROJECTS = [
 
 	{
 		name: 'Brainwave',
-		links: ['https://riyadh-dev.github.io/brainwave/'],
+		links: ['https://taylor1119.github.io/brainwave/'],
 		repo: 'https://github.com/taylor1119/brainwave',
 		thumbnail: imageSources.projects.brainwave[0],
 		images: imageSources.projects.brainwave,
@@ -93,10 +93,7 @@ const PROJECTS = [
 
 	{
 		name: 'Card Matching Game',
-		links: [
-			'https://riyadh-dev.github.io/memory-matching-game/',
-			'https://riyadh-dev-memory-matching-game.netlify.app/',
-		],
+		links: ['https://taylor1119.github.io/memory-matching-game/'],
 		repo: 'https://github.com/taylor1119/memory-matching-game',
 		thumbnail: imageSources.projects['memory-matching-game'][0],
 		images: imageSources.projects['memory-matching-game'],
@@ -105,7 +102,7 @@ const PROJECTS = [
 
 	{
 		name: 'Landing Pages',
-		links: ['https://riyadh-dev.github.io/landing-pages/'],
+		links: ['https://taylor1119.github.io/landing-pages/'],
 		repo: 'https://github.com/taylor1119/landing-pages/',
 		thumbnail: imageSources.projects['landing-page'][0],
 		images: imageSources.projects['landing-page'],
