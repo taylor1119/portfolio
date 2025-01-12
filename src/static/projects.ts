@@ -4,7 +4,7 @@ const PROJECTS = [
 	{
 		name: 'Online Store',
 		links: ['https://e-commerce-app-self.vercel.app/'],
-		repo: 'https://github.com/riyadh-dev/e-commerce-app',
+		repo: 'https://github.com/taylor1119/e-commerce-app',
 		thumbnail: imageSources.projects['e-commerce-app'][0],
 		images: imageSources.projects['e-commerce-app'],
 		tags: ['NextJS', 'TailwindCSS', 'Typescript', 'Stripe', 'RecoilJS'],
@@ -13,7 +13,7 @@ const PROJECTS = [
 	{
 		name: 'Dashboard (frontend only)',
 		links: ['https://dashboard-nextjs-weld.vercel.app/'],
-		repo: 'https://github.com/riyadh-dev/dashboard-nextjs',
+		repo: 'https://github.com/taylor1119/dashboard-nextjs',
 		thumbnail: imageSources.projects['dashboard-nextjs'][0],
 		images: imageSources.projects['dashboard-nextjs'],
 		tags: ['NextJS', 'Typescript', 'RecoilJS', 'TailwindCSS', 'Tremor'],
@@ -22,7 +22,7 @@ const PROJECTS = [
 	{
 		name: 'Airbnb Clone',
 		links: ['https://airbnb-clone-riyadh-dev.vercel.app/'],
-		repo: 'https://github.com/riyadh-dev/airbnb-clone',
+		repo: 'https://github.com/taylor1119/airbnb-clone',
 		thumbnail: imageSources.projects['airbnb-clone'][1],
 		images: imageSources.projects['airbnb-clone'],
 		tags: [
@@ -85,7 +85,7 @@ const PROJECTS = [
 	{
 		name: 'Brainwave',
 		links: ['https://riyadh-dev.github.io/brainwave/'],
-		repo: 'https://github.com/riyadh-dev/brainwave',
+		repo: 'https://github.com/taylor1119/brainwave',
 		thumbnail: imageSources.projects.brainwave[0],
 		images: imageSources.projects.brainwave,
 		tags: ['AstroJS', 'TailwindCSS', 'Typescript', 'RPC'],
@@ -97,7 +97,7 @@ const PROJECTS = [
 			'https://riyadh-dev.github.io/memory-matching-game/',
 			'https://riyadh-dev-memory-matching-game.netlify.app/',
 		],
-		repo: 'https://github.com/riyadh-dev/memory-matching-game',
+		repo: 'https://github.com/taylor1119/memory-matching-game',
 		thumbnail: imageSources.projects['memory-matching-game'][0],
 		images: imageSources.projects['memory-matching-game'],
 		tags: ['ReactJS', 'PreactJS', 'Typescript', 'CSS'],
@@ -106,16 +106,16 @@ const PROJECTS = [
 	{
 		name: 'Landing Pages',
 		links: ['https://riyadh-dev.github.io/landing-pages/'],
-		repo: 'https://github.com/riyadh-dev/landing-pages/',
-		thumbnail: imageSources.projects['landing-pages'][0],
-		images: imageSources.projects['landing-pages'],
+		repo: 'https://github.com/taylor1119/landing-pages/',
+		thumbnail: imageSources.projects['landing-page'][0],
+		images: imageSources.projects['landing-page'],
 		tags: ['AstroJS', 'TailwindCSS', 'Typescript', 'GSAP'],
 	},
 
 	{
 		name: 'Social Media App',
 		links: ['https://social-media-app-eoga.onrender.com/'],
-		repo: 'https://github.com/riyadh-dev/social-media-app',
+		repo: 'https://github.com/taylor1119/social-media-app',
 		thumbnail: imageSources.projects['social-media-app'][5],
 		images: imageSources.projects['social-media-app'],
 		tags: [
@@ -134,7 +134,7 @@ const PROJECTS = [
 	{
 		name: 'Bookdex',
 		links: ['https://bookdex.vercel.app/'],
-		repo: 'https://github.com/riyadh-dev/bookdex',
+		repo: 'https://github.com/taylor1119/bookdex',
 		thumbnail: imageSources.projects['bookdex'][0],
 		images: imageSources.projects['bookdex'],
 		tags: [
@@ -151,10 +151,9 @@ const PROJECTS = [
 	{
 		name: 'Instant Messaging App',
 		links: [
-			//'https://messaging-app.up.railway.app',
 			'https://messaging-app-2b7q.onrender.com',
 		],
-		repo: 'https://github.com/riyadh-dev/messaging-app',
+		repo: 'https://github.com/taylor1119/messaging-app',
 		thumbnail: imageSources.projects['messaging-app'][1],
 		images: imageSources.projects['messaging-app'],
 		tags: [
@@ -168,77 +167,7 @@ const PROJECTS = [
 			'React Router',
 			'React Query',
 		],
-	},
-
-	{
-		name: 'Authentication Demo',
-		links: ['https://authentication-demo-jqhr.onrender.com/'],
-		repo: 'https://github.com/riyadh-dev/authentication-demo',
-		thumbnail: imageSources.projects['authentication-demo'][0],
-		images: imageSources.projects['authentication-demo'],
-		tags: [
-			'ReactJS',
-			'Chakra UI',
-			'Typescript',
-			'ExpressJS',
-			'MongoDB',
-			'CSURF',
-			'HTTPOnly cookies',
-		],
-	},
-
-	{
-		name: 'Portfolio',
-		links: ['https://riyadh-dev.github.io/portfolio'],
-		repo: 'https://github.com/riyadh-dev/portfolio',
-		thumbnail: imageSources.projects['portfolio-website-image'][0],
-		images: imageSources.projects['portfolio-website-image'],
-		tags: [
-			'AstroJS',
-			'SolidJS',
-			'PreactJS',
-			'Typescript',
-			'VitePWA',
-			'CSS',
-		],
-	},
-
-	{
-		name: 'Snake Game',
-		links: ['https://riyadh-dev.github.io/snake-game/'],
-		repo: 'https://github.com/riyadh-dev/snake-game',
-		thumbnail: imageSources.projects['snake-game'][0],
-		images: imageSources.projects['snake-game'],
-		tags: ['SolidJS', 'Typescript', 'TailwindCSS'],
-	},
-
-	{
-		name: 'SciConsul Manager',
-		links: ['https://scms-client.netlify.app/'],
-		repo: 'https://github.com/riyadh-dev/scms-client',
-		thumbnail: imageSources.projects.scms[1],
-		images: imageSources.projects.scms,
-		tags: ['ReactJS', 'ExpressJS', 'MongoDB', 'MUI', 'GraphQL'],
-	},
-
-	{
-		name: 'IEC101 Master Sim',
-		links: [
-			'https://github.com/riyadh-dev/iec101-master-sim/releases/download/v1.0.0/IEC101MasterSim.exe',
-		],
-		repo: 'https://github.com/riyadh-dev/iec101-master-sim',
-		thumbnail: imageSources.projects['iec101-master-sim'][1],
-		images: imageSources.projects['iec101-master-sim'],
-		tags: ['.NET', 'WPF', 'C#', 'XAML', 'IEC 60870-5-101'],
-	},
-	{
-		name: 'Todo App',
-		links: ['https://todo-app-web-riyadh.vercel.app/'],
-		repo: 'https://github.com/riyadh-dev/todo-app',
-		thumbnail: imageSources.projects.todo[0],
-		images: imageSources.projects.todo,
-		tags: ['HonoJS', 'SolidJS', 'Typescript', 'Drizzle-ORM', 'TailwindCSS'],
-	},
+	}
 ]
 
 export default PROJECTS

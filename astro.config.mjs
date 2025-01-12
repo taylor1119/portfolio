@@ -14,6 +14,6 @@ export default defineConfig({
 	server: {
 		port: 3000,
 	},
-	site: 'https://riyadh-dev.github.io',
+	site: 'https://taylor1119.github.io',
 	base: '/portfolio',
 })

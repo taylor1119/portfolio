@@ -36,7 +36,7 @@ export default function Navbar() {
 		<header id='header' class='header'>
 			<nav class='nav container px-15'>
 				<div class='nav-logo'>
-					<h2>Riyadh</h2>
+					<h2>Taylor</h2>
 				</div>
 
 				<div class='nav-menu' classList={{ show: showNavbar() }}>
